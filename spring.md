@@ -7,7 +7,7 @@ If port is in use:</br>
 2. E.g: TCP    0.0.0.0:8080           ####-####:0      LISTENING       6116</br>
 3. Taskkill /F /IM 6616
 
-application.properties</br>
+<h3>application.properties</h3></br>
 spring.application.name=demo</br>
 server.port=8088</br>
 server.error.whitelabel.enabled=false</br>
